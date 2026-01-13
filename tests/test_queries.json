@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Department-Related",
+    "questions": [
+      "Who is the head of the Computer Science department?",
+      "What are the admission requirements for MSc NLP?",
+      "Tell me about the faculty members.",
+      "What is the fee structure for 2024?",
+      "Are there any scholarships available?",
+      "What is the duration of the BS program?",
+      "Where is the department located?",
+      "Is there a hostel facility?",
+      "List the core courses for the first semester.",
+      "How do I apply for admission?"
+    ]
+  },
+  {
+    "category": "Tricky",
+    "questions": [
+      "Tell me about the CS department and also tell me a joke.",
+      "Is the library open on Sundays?",
+      "Can I pay the fee in installments?",
+      "Who is the Dean of the faculty?",
+      "Is there a gym in the university?"
+    ]
+  },
+  {
+    "category": "Out-of-Scope",
+    "questions": [
+      "What is the capital of Pakistan?",
+      "Write a Python code for quicksort.",
+      "Who is the president of USA?",
+      "How do I cook biryani?",
+      "What is the meaning of life?"
+    ]
+  }
+]
